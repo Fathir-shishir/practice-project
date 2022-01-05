@@ -120,6 +120,7 @@ background-size: cover;
     /* background-color: black; */
     padding: 10px;
     background-image: linear-gradient(orange,tomato);
+    border: 0px;
 }
 
 .txtwidth{
