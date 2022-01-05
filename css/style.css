@@ -1,0 +1,150 @@
+body{
+/* background-image: url(../css/1af180f38f6fe01f416c40bde35eed0d.png); */
+background-image: linear-gradient(
+    110deg, #f93d66, #6d47d9);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.menu-items{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    flex-basis: 100%;
+    gap: 50px;
+    margin: 20px;
+    
+}
+.menu-items li{
+    width: 20%;
+    
+    text-align: center;
+    background-color: #ffc600;
+    padding: 10px;
+}
+
+.menu-items li a{
+ text-decoration: none;
+ text-align: center;
+
+
+}
+
+.fisrt-section{
+    display: flex;
+}
+
+.fisrt-section-img{
+    background-image: url(../taco.jpg);
+    /* background-size: cover; */
+    /* height: 500px; */
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+
+    
+}
+.first-sectio-text{
+    width: 40%;
+    /* height: 500px; */
+    
+}
+.Terry{
+    color: black;
+    background-color: chocolate;
+    width: 100%;
+    padding: 5px;
+}
+.tacos{
+    background-color: orange;
+    padding: 50px;
+    text-align: center;
+    /* margin: 5px; */
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Kombucha{
+    margin-bottom: 0px;
+}
+.tacoshp{
+    margin-top: 0px;
+    
+}
+
+.Kombucha{
+    /* margin: 5px; */
+    background-color: orange;
+    padding: 50px;
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 15px;
+
+}
+
+.sectionTwo{
+    display: flex;
+    text-align: center;
+    margin-top: 15px;
+    flex-basis: 100%;
+    gap: 50px;
+}
+
+.box{
+   background-color: orange; 
+   padding: 10px;
+}
+
+.sectionThree{
+    margin-top: 15px;
+    display: flex;
+    flex-basis: 100%;
+    align-items: center;
+    background-color: orange;
+    padding: 15px;
+}
+.section-four{
+    display: flex;
+    flex-basis: 100%;
+    margin-top: 15px;
+}
+.sectio-four-width{
+    width: 40%;
+    
+}
+.hrfour{
+    
+    /* background-color: black; */
+    padding: 10px;
+    background-image: linear-gradient(orange,tomato);
+}
+
+.txtwidth{
+width: 20%;
+text-align: center;
+}
+
+.mar{
+    margin-top: 0px;
+}
+
+.sectionFive{
+    margin-top: 15px;
+    display: flex;
+    flex-basis: 100%;
+    gap: 5%;
+    text-align: center;
+}
+.sectionFiveItemOne{
+    width: 20%;
+}
+.btn{
+    background-image: linear-gradient(yellow,tomato);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+
+}
